@@ -1,0 +1,6 @@
+Extracting HTML Tables and outputting them as a single table in CSV
+==========================
+
+*Exctracting content of http://www.fda.gov/Drugs/DrugSafety/DrugShortages/ucm050794.htm*
+*and creating table in CSV file with more columns than original tables*
+*(NDCs, Company name, Company phone numbers and etc. were outputted in separate columns* 
